@@ -1,5 +1,5 @@
 # Udemy-Java-Orientada-a-Objetos
-Neste repositório será encontrado todos os meus códigos em Java desenvolvidos com o auxílio do curso do professor Nélio Alves de Java Orientada a Objetos. Entre eles, meus primeiros códigos em java, até projetos mais avançados.
+Neste repositório serão encontrados todos os meus códigos em Java desenvolvidos com o auxílio do curso do professor Nélio Alves de Java Orientada a Objetos. Entre eles, meus primeiros códigos em java, até projetos mais avançados.
 
 Os arquivos do repositório possuem nomes como "N1L1.java". O significado é o seguinte, N1 = Número 1, L1 = Lista 1, e assim por diante. O "N" significa número, e o "L" significa lista, para assim ficar mais fácil de organizar os arquivos. 
 
